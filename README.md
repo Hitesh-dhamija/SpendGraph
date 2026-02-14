@@ -64,8 +64,28 @@ Backend:
 
 ## ⚙️ Installation
 
-### 1️⃣ Clone Repository
+### 1️ Clone Repository
 
 ```bash
 git clone https://github.com/your-username/spendgraph.git
 ```
+
+### 2 Backend Setup
+
+cd backend
+npm install
+Create .env:
+PORT=5000
+MONGO_URL=your_mongodb_connection
+JWT_SECRET=your_secret_key
+Run:
+npm start
+
+### 3 Frontend Setup
+
+cd frontend
+npm install
+Create .env:
+REACT_APP_BASE_URL=http://localhost:5000/api/v1/
+Run:
+npm start
