@@ -72,20 +72,42 @@ git clone https://github.com/your-username/spendgraph.git
 
 ### 2 Backend Setup
 
+```bash
 cd backend
 npm install
-Create .env:
+```
+
+Create a `.env` file inside backend:
+
+```env
 PORT=5000
 MONGO_URL=your_mongodb_connection
 JWT_SECRET=your_secret_key
-Run:
+```
+
+Run backend:
+
+```bash
 npm start
+```
+
+---
 
 ### 3 Frontend Setup
 
+```bash
 cd frontend
 npm install
-Create .env:
+```
+
+Create a `.env` file inside frontend:
+
+```env
 REACT_APP_BASE_URL=http://localhost:5000/api/v1/
-Run:
+```
+
+Run frontend:
+
+```bash
 npm start
+```
