@@ -38,27 +38,27 @@ Backend:
 
 ### 🔐 Login Page
 
-![Login Screenshot](./screenshots/login.png)
+![Login Screenshot](./screenShots/login.png)
 
 ### 🔐 Register Page
 
-![Register Screenshot](./screenshots/Register.png)
+![Register Screenshot](./screenShots/Register.png)
 
 ### 💸 Navigation Bar
 
-![Navigation Bar Screenshot](./screenshots/NavigationBar.png)
+![Navigation Bar Screenshot](./screenShots/NavigationBar.png)
 
 ### 📊 Dashboard
 
-![Dashboard Screenshot](./screenshots/dashboard.png)
+![Dashboard Screenshot](./screenShots/dashboard.png)
 
 ### 💸 Income Page
 
-![Income Screenshot](./screenshots/IncomeSection.png)
+![Income Screenshot](./screenShots/IncomeSection.png)
 
 ### 💸 Expenses Page
 
-![Expenses Screenshot](./screenshots/expenses.png)
+![Expenses Screenshot](./screenShots/expenses.png)
 
 ---
 
