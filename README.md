@@ -38,7 +38,7 @@ Backend:
 
 ### 🔐 Login Page
 
-![Login Screenshot](./screenShots/login.png)
+![Login Screenshot](./screenShots/Login.png)
 
 ### 🔐 Register Page
 
@@ -50,7 +50,7 @@ Backend:
 
 ### 📊 Dashboard
 
-![Dashboard Screenshot](./screenShots/dashboard.png)
+![Dashboard Screenshot](./screenShots/Dashboard.png)
 
 ### 💸 Income Page
 
@@ -58,7 +58,7 @@ Backend:
 
 ### 💸 Expenses Page
 
-![Expenses Screenshot](./screenShots/expenses.png)
+![Expenses Screenshot](./screenShots/Expenses.png)
 
 ---
 
