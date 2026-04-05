@@ -50,7 +50,7 @@ Backend:
 
 ### 📊 Dashboard
 
-![Dashboard Screenshot](./screenShots/Dashboard.png)
+![Dashboard Screenshot](./screenShots/DashBoard.png)
 
 ### 💸 Income Page
 
